@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Acronym Meanings</string>
+    <string name="get_full_form">Get Full Form</string>
+    <string name="type_acronym_for">Enter Acronym</string>
+    <string name="abbreviations">Abbreviations::</string>
+    <string name="error_empty_dataset">No full forms were returned.\nTry a different acronym?</string>
+    <string name="oops_image_view">oops image view</string>
+    <string name="empty_search_error">Please input acronym or abbreviation. Field cannot be empty</string>
+    <string name="network_issues_error">Connectivity Issues. Please check your network.</string>
+</resources>
